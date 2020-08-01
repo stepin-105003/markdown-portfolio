@@ -1,6 +1,3 @@
 git fetch origin
 git checkout -b add-images-links origin/add-images-links
 git merge master
-git checkout master
-git merge --no-ff add-images-links
-git push origin master
