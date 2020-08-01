@@ -7,8 +7,8 @@ layout: default
 <br>
 
 {% include 02-image.md %}
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 <br>
-
+[GitHub](http://github.com)
 {% include 03-links.md %}
 
